@@ -5,3 +5,5 @@
 * [Convolutional Neural Network for Visual Recognition](http://cs231n.stanford.edu/syllabus.html)
 * [Best 50 Learning Website](http://www.bestcollegereviews.org/50-top-online-learning-sites/)
 * [Stanford Engineering Everywhere](https://see.stanford.edu/Course)
+* [Building Machines that Imagine and Reason: Principles and Applications of Deep Generative Models](http://videolectures.net/deeplearning2016_mohamed_generative_models/)
+* [Google Research Blog](https://research.googleblog.com/2016/08/text-summarization-with-tensorflow.html)
