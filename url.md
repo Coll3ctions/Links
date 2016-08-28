@@ -8,3 +8,7 @@
 * [Building Machines that Imagine and Reason: Principles and Applications of Deep Generative Models](http://videolectures.net/deeplearning2016_mohamed_generative_models/)
 * [Google Research Blog](https://research.googleblog.com/2016/08/text-summarization-with-tensorflow.html)
 * [Keras documentation](https://keras.io/)
+* [NLP In Scala](https://www.youtube.com/watch?v=kHgttIwWcaE)
+* [Research blog Tensorflow](https://research.googleblog.com/2016/08/text-summarization-with-tensorflow.html)
+* [Text Summerization in TensorFlow](https://github.com/tensorflow/models/tree/master/textsum)
+
