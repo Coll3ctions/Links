@@ -11,4 +11,4 @@
 * [NLP In Scala](https://www.youtube.com/watch?v=kHgttIwWcaE)
 * [Research blog Tensorflow](https://research.googleblog.com/2016/08/text-summarization-with-tensorflow.html)
 * [Text Summerization in TensorFlow](https://github.com/tensorflow/models/tree/master/textsum)
-
+* [Deep Learning Papers](https://adeshpande3.github.io/adeshpande3.github.io/The-9-Deep-Learning-Papers-You-Need-To-Know-About.html)
