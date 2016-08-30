@@ -13,3 +13,10 @@
 * [Text Summerization in TensorFlow](https://github.com/tensorflow/models/tree/master/textsum)
 * [Deep Learning Papers](https://adeshpande3.github.io/adeshpande3.github.io/The-9-Deep-Learning-Papers-You-Need-To-Know-About.html)
 * [Interactive ML Demo](https://arogozhnikov.github.io/2016/04/28/demonstrations-for-ml-courses.html)
+
+
+# Videos
+* [Data School](https://www.youtube.com/user/dataschool/)
+* [PyData](https://www.youtube.com/user/PyDataTV/)
+* [sentdex](https://www.youtube.com/user/sentdex/)
+* [DeepLearning.TV](https://www.youtube.com/channel/UC9OeZkIwhzfv-_Cb7fCikLQ)
