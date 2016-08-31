@@ -13,6 +13,8 @@
 * [Text Summerization in TensorFlow](https://github.com/tensorflow/models/tree/master/textsum)
 * [Deep Learning Papers](https://adeshpande3.github.io/adeshpande3.github.io/The-9-Deep-Learning-Papers-You-Need-To-Know-About.html)
 * [Interactive ML Demo](https://arogozhnikov.github.io/2016/04/28/demonstrations-for-ml-courses.html)
+* [Berkeley DS Course](http://data8.org/fa16/)
+* [UC Berkeley CS188 Intro to AI](http://inst.eecs.berkeley.edu/~cs188/pacman/home.html)
 
 
 # Videos
