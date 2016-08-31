@@ -16,6 +16,9 @@
 * [Berkeley DS Course](http://data8.org/fa16/)
 * [UC Berkeley CS188 Intro to AI](http://inst.eecs.berkeley.edu/~cs188/pacman/home.html)
 
+# Frameworks
+* [Deeplearning for Java](http://deeplearning4j.org/)
+
 
 # Videos
 * [Data School](https://www.youtube.com/user/dataschool/)
