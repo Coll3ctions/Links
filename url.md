@@ -19,6 +19,8 @@
 # Frameworks
 * [Deeplearning for Java](http://deeplearning4j.org/)
 
+# Blogs
+* [Liu Fu Yang](https://liufuyang.com/)
 
 # Videos
 * [Data School](https://www.youtube.com/user/dataschool/)
