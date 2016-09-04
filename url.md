@@ -15,6 +15,7 @@
 * [Interactive ML Demo](https://arogozhnikov.github.io/2016/04/28/demonstrations-for-ml-courses.html)
 * [Berkeley DS Course](http://data8.org/fa16/)
 * [UC Berkeley CS188 Intro to AI](http://inst.eecs.berkeley.edu/~cs188/pacman/home.html)
+* [Mining Massive Datasets](http://www.mmds.org/)
 
 # Frameworks
 * [Deeplearning for Java](http://deeplearning4j.org/)
