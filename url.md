@@ -17,6 +17,7 @@
 * [UC Berkeley CS188 Intro to AI](http://inst.eecs.berkeley.edu/~cs188/pacman/home.html)
 * [Mining Massive Datasets](http://www.mmds.org/)
 * [Jefkine's blog](http://jefkine.com/general/2016/09/05/backpropagation-in-convolutional-neural-networks/)
+* [Mazur's blog](https://mattmazur.com/2015/03/17/a-step-by-step-backpropagation-example/)
 
 # Frameworks
 * [Deeplearning for Java](http://deeplearning4j.org/)
