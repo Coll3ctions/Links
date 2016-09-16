@@ -30,3 +30,7 @@
 * [PyData](https://www.youtube.com/user/PyDataTV/)
 * [sentdex](https://www.youtube.com/user/sentdex/)
 * [DeepLearning.TV](https://www.youtube.com/channel/UC9OeZkIwhzfv-_Cb7fCikLQ)
+
+
+# Hardware
+* [hackster.io](https://www.hackster.io/igorF2/arduino-uno-mini-weather-station-31b555)
