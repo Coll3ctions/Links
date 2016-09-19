@@ -30,6 +30,7 @@
 * [PyData](https://www.youtube.com/user/PyDataTV/)
 * [sentdex](https://www.youtube.com/user/sentdex/)
 * [DeepLearning.TV](https://www.youtube.com/channel/UC9OeZkIwhzfv-_Cb7fCikLQ)
+* [Machine Learning Summer School 2014](https://www.youtube.com/playlist?list=PLZSO_6-bSqHQCIYxE3ycGLXHMjK3XV7Iz)
 
 
 # Hardware
