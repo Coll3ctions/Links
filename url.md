@@ -18,6 +18,7 @@
 * [Mining Massive Datasets](http://www.mmds.org/)
 * [Jefkine's blog](http://jefkine.com/general/2016/09/05/backpropagation-in-convolutional-neural-networks/)
 * [Mazur's blog](https://mattmazur.com/2015/03/17/a-step-by-step-backpropagation-example/)
+* [CS224D Natural Language Processing Stanford](https://cs224d.stanford.edu/)
 
 # Frameworks
 * [Deeplearning for Java](http://deeplearning4j.org/)
@@ -31,6 +32,7 @@
 * [sentdex](https://www.youtube.com/user/sentdex/)
 * [DeepLearning.TV](https://www.youtube.com/channel/UC9OeZkIwhzfv-_Cb7fCikLQ)
 * [Machine Learning Summer School 2014](https://www.youtube.com/playlist?list=PLZSO_6-bSqHQCIYxE3ycGLXHMjK3XV7Iz)
+* [CS224D - Natural Language Processing](https://www.youtube.com/watch?v=sU_Yu_USrNc&index=1&list=PLaO7Jsfk4pOy9SYl41ja3g_1e4KhXBi2C)
 
 
 # Hardware
