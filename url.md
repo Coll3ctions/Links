@@ -33,6 +33,7 @@
 * [DeepLearning.TV](https://www.youtube.com/channel/UC9OeZkIwhzfv-_Cb7fCikLQ)
 * [Machine Learning Summer School 2014](https://www.youtube.com/playlist?list=PLZSO_6-bSqHQCIYxE3ycGLXHMjK3XV7Iz)
 * [CS224D - Natural Language Processing](https://www.youtube.com/watch?v=sU_Yu_USrNc&index=1&list=PLaO7Jsfk4pOy9SYl41ja3g_1e4KhXBi2C)
+* [CS224D - 2016 NLP Stanford](https://www.youtube.com/playlist?list=PLmImxx8Char9Ig0ZHSyTqGsdhb9weEGam)
 
 
 # Hardware
