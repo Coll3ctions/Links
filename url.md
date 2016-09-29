@@ -38,3 +38,5 @@
 
 # Hardware
 * [hackster.io](https://www.hackster.io/igorF2/arduino-uno-mini-weather-station-31b555)
+* [Andys Workshop](http://andybrown.me.uk/2013/06/08/a-generic-16-bit-lcd-adaptor-for-the-arduino/)
+* [Nick Gammon](https://www.gammon.com.au/)
