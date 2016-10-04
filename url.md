@@ -20,6 +20,7 @@
 * [Mazur's blog](https://mattmazur.com/2015/03/17/a-step-by-step-backpropagation-example/)
 * [CS224D Natural Language Processing Stanford](https://cs224d.stanford.edu/)
 * [DMLC](http://dmlc.ml/)
+* [CS109 Data Science by Harvard](http://cs109.github.io/2015/)
 
 # Frameworks
 * [Deeplearning for Java](http://deeplearning4j.org/)
