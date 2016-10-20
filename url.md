@@ -27,6 +27,7 @@
 
 # Blogs
 * [Liu Fu Yang](https://liufuyang.com/)
+* [Using Keras and Deep Deterministic Policy Gradient to play TORCS](https://yanpanlau.github.io/2016/10/11/Torcs-Keras.html)
 
 # Videos
 * [Data School](https://www.youtube.com/user/dataschool/)
