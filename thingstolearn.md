@@ -4,3 +4,7 @@
 
 * D3js - http://tributary.io/
 
+
+## JavaFX
+
+* javafx - http://learnjavafx.typepad.com/
