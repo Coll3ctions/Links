@@ -8,3 +8,5 @@
 ## JavaFX
 
 * javafx - http://learnjavafx.typepad.com/
+
+* Curated list - https://github.com/mhrimaz/AwesomeJavaFX
