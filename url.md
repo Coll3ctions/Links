@@ -21,6 +21,7 @@
 * [CS224D Natural Language Processing Stanford](https://cs224d.stanford.edu/)
 * [DMLC](http://dmlc.ml/)
 * [CS109 Data Science by Harvard](http://cs109.github.io/2015/)
+* [Emergent Future Blog on Medium](https://medium.com/emergent-future)
 
 # Frameworks
 * [Deeplearning for Java](http://deeplearning4j.org/)
