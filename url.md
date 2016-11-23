@@ -38,7 +38,7 @@
 * [Machine Learning Summer School 2014](https://www.youtube.com/playlist?list=PLZSO_6-bSqHQCIYxE3ycGLXHMjK3XV7Iz)
 * [CS224D - Natural Language Processing](https://www.youtube.com/watch?v=sU_Yu_USrNc&index=1&list=PLaO7Jsfk4pOy9SYl41ja3g_1e4KhXBi2C)
 * [CS224D - 2016 NLP Stanford](https://www.youtube.com/playlist?list=PLmImxx8Char9Ig0ZHSyTqGsdhb9weEGam)
-
+* [Ruben Fiszel's Blog](https://rubenfiszel.github.io/)
 
 # Hardware
 * [hackster.io](https://www.hackster.io/igorF2/arduino-uno-mini-weather-station-31b555)
