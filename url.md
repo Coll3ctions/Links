@@ -22,6 +22,7 @@
 * [DMLC](http://dmlc.ml/)
 * [CS109 Data Science by Harvard](http://cs109.github.io/2015/)
 * [Emergent Future Blog on Medium](https://medium.com/emergent-future)
+* [Daniil's blog](http://warmspringwinds.github.io/tensorflow/tf-slim/2016/10/30/image-classification-and-segmentation-using-tensorflow-and-tf-slim/)
 
 # Frameworks
 * [Deeplearning for Java](http://deeplearning4j.org/)
